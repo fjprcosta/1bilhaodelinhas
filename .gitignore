@@ -80,6 +80,8 @@ instance/
 .webassets-cache
 
 # Scrapy stuff:
+
+1bilhaodelinhas\data\measurements.txt
 .scrapy
 
 # Sphinx documentation
